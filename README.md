@@ -19,6 +19,7 @@ Simply run the python script with the following options (make the python script 
     script.py file1.h5 nroot
 
 file1.h5 - Molcas HDF5 file from Step 3 above.
+
 nroot - Integer for the root number.
 
 To perform the SA truncation scheme (See the SF-PDFT paper)
@@ -26,7 +27,9 @@ To perform the SA truncation scheme (See the SF-PDFT paper)
     script.py file1.h5 file2.h5 avg
 
 file1.h5 - Molcas HDF5 file for one of the two states of interest.
+
 file2.h5 - Molcas HDF5 file for the second state of interest.
+
 avg - Keword for state-average.
 
 For any questions and more into the usage and running sf-pdft, write to oimeitei(at)vt.edu
