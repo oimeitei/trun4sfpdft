@@ -29,7 +29,7 @@ file1.h5 - Molcas HDF5 file for one of the two states of interest.
 file2.h5 - Molcas HDF5 file for the second state of interest.
 avg - Keword for state-average.
 
-For any questions, write to oimeitei(at)vt.edu
+For any questions and more into the usage and running sf-pdft, write to oimeitei(at)vt.edu
 
 **Reference**
 OR Meitei, NJ Mayhall, Spin-flip pair-density functional theory: A practical approach to treat static and dynamical correlations in large molecules
